@@ -1,0 +1,8 @@
+app:
+  name: ProduitProosoft
+  user_cookie: employe
+
+jwt:
+  header: Authorization
+  expires_in: 600
+  secret: mysecret
